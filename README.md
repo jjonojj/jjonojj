@@ -25,11 +25,3 @@ rust is my main language, but i also made some things in javascript, python and 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" height="72"></img>
 <img src="https://bevyengine.org/assets/bevy_logo_dark.svg" height="72"></img>
 </p>
-
-
-
-### left behind
----
-<p float="left">
-<img src="https://assets.stickpng.com/images/62e131df7fe3599fdd46ecb3.png" height="72"></img>
-</p>
