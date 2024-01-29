@@ -1,3 +1,5 @@
+<p align="center">
+
 # Hello
 
 ```
@@ -10,3 +12,5 @@ rust is my main language, but i also made some things in javascript, python and 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="72"></img>
 <img src="https://www.svgrepo.com/show/452091/python.svg" width="72"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/170px-HTML5_logo_and_wordmark.svg.png" width="96"></img>
+
+</p>
