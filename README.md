@@ -1,9 +1,3 @@
-<style>
-	img {
-		display: inline;
-	}
-</style>
-
 # Hello
 
 ```
