@@ -1,7 +1,6 @@
 # Hello
 
-i am jonas, i come from spittal, austria and i do things that come to my mind.
-rust is my main language, but i also made some things in javascript, python and c/c++.
+i like programming
 <br>
 
 ### experienced
