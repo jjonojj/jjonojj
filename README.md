@@ -23,7 +23,7 @@ i like programming
 <img src="https://bevyengine.org/assets/bevy_logo_dark.svg" height="72"></img>
 </p>
 
-# what i do currently
+### what i do currently
 ---
 <p float="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/220px-Rustacean-orig-noshadow.svg.png" height="72"></img>
