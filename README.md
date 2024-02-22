@@ -30,4 +30,5 @@ i like programming
 </p>
 
 ---
+also,
 i like to experiment with procedural graphics. they look cool.
