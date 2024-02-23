@@ -20,7 +20,6 @@ i like programming
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/1200px-The_C_Programming_Language_logo.svg.png" height="72"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" height="72"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" height="72"></img>
-<img src="https://bevyengine.org/assets/bevy_logo_dark.svg" height="72"></img>
 </p>
 
 ### what i do currently
