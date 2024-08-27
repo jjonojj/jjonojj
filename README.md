@@ -1,13 +1,8 @@
-hai i am jonas and i like graphics programming.
-im currently working on a 3d graphics engine using c++ and opengl.
+hello! 
+my name is jonas.
+i live in austria and i go to school at the htl villach.
 
-**i like:**
-- c++
-- the c++ standard library
-- opengl
+i like coding in c++, and ive done some rust in the past.
 
-**want to learn:**
-- zig
-- jai (maybe?)
-- haskell
-- vulkan
+also i want to try jai, odin and haskell.
+most of my repos are private, so dont expect much here :D
