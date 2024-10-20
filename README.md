@@ -1,6 +1,6 @@
 ## hello! <br>
 my name is jonas.<br>
-i live in austria and i go to school at the htl villach.<br>
+i live in austria and i go to school at the htl in villach.<br>
 
 i like to code in c and rust.<br>
 
