@@ -1,5 +1,5 @@
-## hello! <br>
-my name is jonas! i like to code in c and rust, and i know some other languages.
+## konnichiwa! <br>
+My name is Jonas! I code a lot in my free time, mainly rust stuff but i do some other languages too.
 most of my repos are private, so dont expect much here.
 
-right now im doing: vulkan, and graphics programming in general
+Right now I'm doing: vulkan, and graphics programming in general
